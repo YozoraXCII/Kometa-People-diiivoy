@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY (diiivoy) - Z (46 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/%21_Images_grid.jpg)
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zac%20Efron.jpg)

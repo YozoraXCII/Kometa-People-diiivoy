@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY (diiivoy) - G (296 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/G/Images/G-Eazy.jpg)

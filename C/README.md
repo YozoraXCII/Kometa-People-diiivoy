@@ -1,4 +1,5 @@
 # Plex Meta Manager People - DIIIVOY (diiivoy) - C (567 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/C.%20Robert%20Cargill.jpg)
