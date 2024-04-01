@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - L (384 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - L (385 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -211,6 +211,7 @@
 * [Lily Tomlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lily%20Tomlin.jpg)
 * [Lin Shaye](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lin%20Shaye.jpg)
 * [Lin-Manuel Miranda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lin-Manuel%20Miranda.jpg)
+* [Lina Romay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lina%20Romay.jpg)
 * [Linda Cardellini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Linda%20Cardellini.jpg)
 * [Linda Emond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Linda%20Emond.jpg)
 * [Linda Fiorentino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Linda%20Fiorentino.jpg)

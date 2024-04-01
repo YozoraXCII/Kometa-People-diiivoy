@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - B (449 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - B (450 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/B.J.%20Penn.jpg)
@@ -144,6 +144,7 @@
 * [Betty White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Betty%20White.jpg)
 * [Beverley Mitchell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Beverley%20Mitchell.jpg)
 * [Beverly D'Angelo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Beverly%20D%27Angelo.jpg)
+* [Beverly Lynne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Beverly%20Lynne.jpg)
 * [Beyoncé](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Beyonc%C3%A9.jpg)
 * [Bhushan Kumar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Bhushan%20Kumar.jpg)
 * [Bianca Bethune](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/B/Images/Bianca%20Bethune.jpg)

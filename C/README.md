@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - C (583 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - C (584 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -244,6 +244,7 @@
 * [Chike Chan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chike%20Chan.jpg)
 * [Chin Han](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chin%20Han.jpg)
 * [Chip Gaines](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chip%20Gaines.jpg)
+* [Chipo Chung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chipo%20Chung.jpg)
 * [Chiranjeevi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chiranjeevi.jpg)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chiwetel%20Ejiofor.jpg)
 * [Chloe Arrowsmith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Chloe%20Arrowsmith.jpg)

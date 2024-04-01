@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - Z (46 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - Z (47 Images)
 ![Grid](grid.jpg)
 
 * [Zac Efron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zac%20Efron.jpg)
@@ -25,6 +25,7 @@
 * [Zak Olkewicz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zak%20Olkewicz.jpg)
 * [Zak Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zak%20Penn.jpg)
 * [Zak Santiago](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zak%20Santiago.jpg)
+* [Zakir Hussain](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zakir%20Hussain.jpg)
 * [Zane Weiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zane%20Weiner.jpg)
 * [Zara Phythian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zara%20Phythian.jpg)
 * [Zazie Beetz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Z/Images/Zazie%20Beetz.jpg)

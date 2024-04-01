@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - E (323 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - E (324 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/E.G.%20Marshall.jpg)
@@ -258,6 +258,7 @@
 * [Erika Eleniak](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erika%20Eleniak.jpg)
 * [Erika Prevost](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erika%20Prevost.jpg)
 * [Erika von Tagen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erika%20von%20Tagen.jpg)
+* [Erin Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erin%20Brown.jpg)
 * [Erin Cahill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erin%20Cahill.jpg)
 * [Erin Jameson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erin%20Jameson.jpg)
 * [Erin Kellyman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/E/Images/Erin%20Kellyman.jpg)

@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - Y (47 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - Y (48 Images)
 ![Grid](grid.jpg)
 
 * [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
@@ -17,6 +17,7 @@
 * [Yeon Sang-ho](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yeon%20Sang-ho.jpg)
 * [Yerin Ha](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yerin%20Ha.jpg)
 * [Yi Han](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yi%20Han.jpg)
+* [Yogi Babu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yogi%20Babu.jpg)
 * [Yoji Tanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yoji%20Tanaka.jpg)
 * [Yolanda Lynes](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yolanda%20Lynes.jpg)
 * [Yon González](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Y/Images/Yon%20Gonz%C3%A1lez.jpg)

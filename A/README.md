@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - A (727 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - A (729 Images)
 ![Grid](grid.jpg)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Aamir%20Khan.jpg)
@@ -229,6 +229,8 @@
 * [Alex Proyas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Proyas.jpg)
 * [Alex Rocco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Rocco.jpg)
 * [Alex Russell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Russell.jpg)
+* [Alex Sharp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Sharp.jpg)
+* [Alex Sharpe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Sharpe.jpg)
 * [Alex Sol](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Sol.jpg)
 * [Alex Solowitz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Solowitz.jpg)
 * [Alex Winter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/A/Images/Alex%20Winter.jpg)

@@ -1,8 +1,9 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - S (612 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - S (614 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Saagar%20Shaikh.jpg)
+* [Saamer Usmani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Saamer%20Usmani.jpg)
 * [Sabine Crossen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sabine%20Crossen.jpg)
 * [Sabrina Carpenter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sabrina%20Carpenter.jpg)
 * [Sabrina Grdevich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sabrina%20Grdevich.jpg)
@@ -176,6 +177,7 @@
 * [Scott Stuber](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Scott%20Stuber.jpg)
 * [Scott Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Scott%20Wilson.jpg)
 * [Scott Z. Burns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Scott%20Z.%20Burns.jpg)
+* [Sea Shimooka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sea%20Shimooka.jpg)
 * [Sean Anders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sean%20Anders.jpg)
 * [Sean Anthony Moran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sean%20Anthony%20Moran.jpg)
 * [Sean Astin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/S/Images/Sean%20Astin.jpg)
