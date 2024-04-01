@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - H (194 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - H (195 Images)
 ![Grid](grid.jpg)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/H.%20Jon%20Benjamin.jpg)
@@ -118,6 +118,7 @@
 * [Henry Gayden](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Gayden.jpg)
 * [Henry Golding](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Golding.jpg)
 * [Henry Goodman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Goodman.jpg)
+* [Henry Ian Cusick](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Ian%20Cusick.jpg)
 * [Henry Joost](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Joost.jpg)
 * [Henry King](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20King.jpg)
 * [Henry Lau](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/H/Images/Henry%20Lau.jpg)

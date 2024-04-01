@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - L (385 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - L (386 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -288,6 +288,7 @@
 * [Lorraine Ashbourne](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lorraine%20Ashbourne.jpg)
 * [Lorraine Bracco](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lorraine%20Bracco.jpg)
 * [Lorraine Pascale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lorraine%20Pascale.jpg)
+* [Lorraine Toussaint](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lorraine%20Toussaint.jpg)
 * [Lossen Chambers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lossen%20Chambers.jpg)
 * [Lotte Andersen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lotte%20Andersen.jpg)
 * [Lotte Lenya](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/L/Images/Lotte%20Lenya.jpg)

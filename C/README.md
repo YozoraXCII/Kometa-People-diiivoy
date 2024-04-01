@@ -1,4 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - C (584 Images)
+# Plex Meta Manager People - DIIIVOY (diiivoy) - C (585 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -113,6 +113,7 @@
 * [Cate Blanchett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Cate%20Blanchett.jpg)
 * [Cate Shortland](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Cate%20Shortland.jpg)
 * [Caterina Murino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Caterina%20Murino.jpg)
+* [Catherine Bell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Catherine%20Bell.jpg)
 * [Catherine Cohen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Catherine%20Cohen.jpg)
 * [Catherine Curtin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Catherine%20Curtin.jpg)
 * [Catherine Deneuve](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/C/Images/Catherine%20Deneuve.jpg)
